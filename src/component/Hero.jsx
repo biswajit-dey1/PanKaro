@@ -17,12 +17,13 @@ const Hero = () => {
             </div>
 
             <div className='ml-[13%]'>
-            <h1 className='font-bold text-7xl   '>Plan Your
-                <h1 className='pt-1'>Trip with Ease</h1>
+            <h1 className='font-bold text-7xl'>Plan Your
+                <span className='block pt-1'>Trip with Ease</span>
             </h1>
 
-            <p className='text-gray-950 text-lg  pt-5'>Customize your travel iternery in minutes--pick your
-                <p>destination, set your preferences and explore with confidence</p> </p>
+            <p className='text-gray-950 text-lg pt-5'>
+              Customize your travel itinerary in minutes—pick your destination, set your preferences and explore with confidence.
+            </p>
 
             
 
