@@ -5,7 +5,7 @@ import { useHoteldata } from '../hooks/useHoteldata'
 
 const MainContainer = () => {
 
-  useHoteldata()
+ 
   return (
     <>
     <div className='relative'>
